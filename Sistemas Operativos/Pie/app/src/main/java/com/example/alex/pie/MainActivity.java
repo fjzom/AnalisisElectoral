@@ -12,6 +12,7 @@ import org.achartengine.chart.PieChart;
 
 public class MainActivity extends ActionBarActivity {
 
+//comentario de prueba
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
